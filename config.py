@@ -1,0 +1,3 @@
+CLIENT_ID = 'NXv_uuVdEegGzQ'
+CLIENT_SECRET =  'mqWIz3FkHF0EEIJj_i4_jlRiZIc'
+USER_AGENT = 'web app'
